@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_products_app/static/css/main.073c9b0a.css",
+    "main.js": "/react_products_app/static/js/main.35b7f816.js",
+    "index.html": "/react_products_app/index.html",
+    "main.073c9b0a.css.map": "/react_products_app/static/css/main.073c9b0a.css.map",
+    "main.35b7f816.js.map": "/react_products_app/static/js/main.35b7f816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.35b7f816.js"
+  ]
+}
